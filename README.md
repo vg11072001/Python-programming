@@ -12,8 +12,8 @@ Contain all resources, codes and problems solved be me of different platform
 https://www.geeksforgeeks.org/python-programming-language/
 
 * Python Basics
-** Python language introduction
-** Python 3 basics
+Python language introduction
+*Python 3 basics
 ** Python The new generation language
 ** Important difference between python 2.x and python 3.x with example
 ** Keywords in Python | Set 1, Set 2
