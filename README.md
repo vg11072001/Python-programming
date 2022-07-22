@@ -1,2 +1,2 @@
-# Test-Python
-The task was given by eyerlytics
+# Python Programming
+Contain all resources, codes and problems solved be me of different platform
