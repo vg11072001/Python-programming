@@ -7,10 +7,12 @@ Contain all resources, codes and problems solved be me of different platform
 * [Id](https://www.hackerrank.com/vg11072001)
 
 
-## Geek for Geek | Python Programming
+## Geek for Geek | Python Programming 
 
-https://www.geeksforgeeks.org/python-programming-language/
+#### 1. [Python Practise] (https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/)
+* Notebook
 
+#### 2. [Python Theory] (https://www.geeksforgeeks.org/python-programming-language/)
 * Python Basics
 Python language introduction
     * Python 3 basics
