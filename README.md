@@ -9,10 +9,10 @@ Contain all resources, codes and problems solved be me of different platform
 
 ## Geek for Geek | Python Programming 
 
-#### 1. [Python Practise] (https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/)
+#### 1. [Python Practise](https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/)
 * Notebook
 
-#### 2. [Python Theory] (https://www.geeksforgeeks.org/python-programming-language/)
+#### 2. [Python Theory](https://www.geeksforgeeks.org/python-programming-language/)
 * Python Basics
 Python language introduction
     * Python 3 basics
