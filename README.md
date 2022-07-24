@@ -26,7 +26,7 @@ Contain all resources, codes and problems solved be me of different platform
 ## Cheatsheets
 
 * www.pythoncheatsheet.org
-* github.com/gto76/python-cheatsheet
+* [github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)
 
 ![image](https://user-images.githubusercontent.com/67424390/180626751-4453b296-c303-4530-86cd-a17ac26bf804.png)
 
