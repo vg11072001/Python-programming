@@ -63,3 +63,6 @@ Contain all resources, codes and problems solved be me of different platform
     * Python | end parameter in print()
     * Python | sep parameter in print()
     * Python | Output Formatting
+
+## Interesting articles on Python
+* [Python Pitfall: Mutable Default Arguments](https://towardsdatascience.com/python-pitfall-mutable-default-arguments-9385e8265422)
