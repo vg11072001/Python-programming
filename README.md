@@ -2,6 +2,34 @@
 Contain all resources, codes and problems solved be me of different platform
 
 
+## Python Topics 
+* Introduction 
+* Control flows - statements, instructions, or function calls
+* Data types - int, float, String, Tuple, List, Set and Dictionary
+* Functions  
+* Itertools module
+* Comprehensions
+* Manipulating strings
+* String formatting
+* Regular expressions
+* Files and directory paths
+* Reading and writing files
+* Exception handling
+* Debugging
+* Args and Kwargs
+* Main: top level script
+* setup.py
+* Dataclasses
+* Virtual environments
+
+
+## Cheatsheets
+
+* www.pythoncheatsheet.org
+
+![image](https://user-images.githubusercontent.com/67424390/180626751-4453b296-c303-4530-86cd-a17ac26bf804.png)
+
+
 ## Hacker Rank Solution
 * [Notebook Link](https://drive.google.com/file/d/1F5lQiU5ruqgkJWTftnMlPQmhEyETKssf/view?usp=sharing)
 * [Id](https://www.hackerrank.com/vg11072001)
