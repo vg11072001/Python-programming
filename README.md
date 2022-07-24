@@ -27,7 +27,7 @@ Contain all resources, codes and problems solved be me of different platform
 
 * www.pythoncheatsheet.org
 
-![image](https://user-images.githubusercontent.com/67424390/180626751-4453b296-c303-4530-86cd-a17ac26bf804.png)
+* ![image](https://user-images.githubusercontent.com/67424390/180626751-4453b296-c303-4530-86cd-a17ac26bf804.png)
 
 
 ## Hacker Rank Solution
