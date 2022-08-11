@@ -41,7 +41,10 @@ Contain all resources, codes and problems solved be me of different platform
 #### 1. [Python Practise](https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/)
 * [Notebook](https://colab.research.google.com/drive/1q1olHHQFaDAkNbFSJSQMv_hWt40udLWc#scrollTo=SGJBlQs3c3uq)
 
-#### 2. [Python Theory](https://www.geeksforgeeks.org/python-programming-language/)
+#### 2. [Data Structures SDE sheet by love Babbar](https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/)
+* [Array Notebook](https://colab.research.google.com/drive/1N1bi6HQsA8gEKHt74EBNmsr8XK787JNo?usp=sharing) 
+
+#### 3. [Python Theory](https://www.geeksforgeeks.org/python-programming-language/)
 * Python Basics
     * Python 3 basics
     * Python The new generation language
