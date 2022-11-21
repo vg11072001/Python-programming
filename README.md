@@ -1,6 +1,7 @@
 # Python Programming
 Contain all resources, codes and problems solved be me of different platform
 
+* [Python Detailed Roadmap](https://god-level-python.notion.site/Python-Detailed-Roadmap-7cbcb8c4c3b6411094f6256050a44d5f)
 
 ## Python Topics 
 * Introduction 
