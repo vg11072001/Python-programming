@@ -2,6 +2,7 @@
 Contain all resources, codes and problems solved be me of different platform
 
 * [Python Detailed Roadmap](https://god-level-python.notion.site/Python-Detailed-Roadmap-7cbcb8c4c3b6411094f6256050a44d5f)
+* [Python crash course file by Krish Naik containing matplotlib, seaborn etc librart formats](https://github.com/krishnaik06/Machine-Learning-in-90-days/tree/master/Section%201-%20Python%20Crash%20Course)
 
 ## Python Topics 
 * Introduction 
