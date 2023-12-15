@@ -1,6 +1,23 @@
-# Pyspark
+## Spark
+
+### Spark Architecture, [Intro](https://blog.devgenius.io/setup-pyspark-locally-build-your-first-etl-pipeline-with-pyspark-91c3060c6133)
+![image](https://github.com/vg11072001/Python-programming/assets/67424390/eef3adfe-4268-4fd2-ba44-6ebfe330078f)
 
 ![image](https://github.com/vg11072001/Python-programming/assets/67424390/62030424-afba-40e1-b52c-cab98442a94b)
+
+Spark is written in Scala, but it provides APIs for other mainstream languages such as Java, Python and R — PySpark is the Python API. 
+It also supports other tools and languages including Spark SQL for SQL, pandas API on Spark for pandas workloads, and Structured Streaming for incremental computation and stream processing.
+
+
+## Pyspark
+
+
+### PySpark Architecture 
+
+Apache Spark has a master/slave architecture where the master is called the “Driver” and slaves are called “Workers”.
+
+![image](https://github.com/vg11072001/Python-programming/assets/67424390/e18c335b-361a-42a4-97f6-f632f3211061)
+
 
 ### Concept and Structure
 * Application: propgram built using APIs, driver & excutor
@@ -15,11 +32,30 @@
 
 ![image](https://github.com/vg11072001/Python-programming/assets/67424390/28ca126e-62ad-4440-87e0-15208bb27b39)
 
+### PySpark Features
+* In-memory computation
+* Distributed processing using parallelize
+* Can be used with many cluster managers (Spark, Yarn, Mesos e.t.c)
+* Fault-tolerant
+* Immutable
+* Lazy evaluation
+* Cache & persistence
+* Inbuild-optimization when using DataFrames
+* Supports ANSI SQL
+
 ###### Tranforms, Actions and Lazy Evaluation
 
 ![image](https://github.com/vg11072001/Python-programming/assets/67424390/3794cc6a-ee9e-4540-a5d2-d43ee25ea63a)
 
 ![image](https://github.com/vg11072001/Python-programming/assets/67424390/3ec26e8f-88f7-4a3a-9eab-6ae5eb52afcd)
+
+### PySpark Modules & Packages
+* PySpark RDD (pyspark.RDD)
+* PySpark DataFrame and SQL (pyspark.sql)
+* PySpark Streaming (pyspark.streaming)
+* PySpark MLib (pyspark.ml, pyspark.mllib)
+* PySpark GraphFrames (GraphFrames)
+* PySpark Resource (pyspark.resource) It’s new in PySpark 3.0
 
 #### Spark UI (holistic view of your applications, to easliy monitor)
 * List of scheduler stages and tasks
@@ -34,6 +70,17 @@
 ![image](https://github.com/vg11072001/Python-programming/assets/67424390/a5133bc8-a941-4c58-a80f-ba880409183f)
 
 
+### Pandas vs Pyspark
+
+Below are the few considerations when to choose PySpark over Pandas:
+* If your data is huge and grows significantly over the years and you wanted to improve your processing time.
+* If you want fault-tolerant.
+* ANSI SQL compatibility.
+* Language to choose (Spark supports Python, Scala, Java & R)
+* When you want Machine-learning capability.
+* Would like to read Parquet, Avro, Hive, Casandra, Snowflake e.t.c
+* If you wanted to stream the data and process it real-time.
+
 ### Code 
 
 #### 1 start
@@ -43,3 +90,13 @@ SparkAPP
 ![image](https://github.com/vg11072001/Python-programming/assets/67424390/ea57f370-0a3c-489a-86a3-df52837172c2)
 ![image](https://github.com/vg11072001/Python-programming/assets/67424390/588a3c5c-47b6-4c4e-86c1-911dc78c99c4)
 
+
+
+## Reference:
+* [Latest Spark- From/to pandas and PySpark DataFrames](https://spark.apache.org/docs/latest/api/python/user_guide/pandas_on_spark/pandas_pyspark.html)
+* [PySpark vs Pandas: Performance, Memory Consumption and Use Cases](https://www.codeconquest.com/blog/pyspark-vs-pandas-performance-memory-consumption-and-use-cases/)
+* [Pandas vs PySpark..!](https://medium.com/geekculture/pandas-vs-pyspark-fe110c266e5c)
+* [PySpark UDF (User Defined Function)](https://sparkbyexamples.com/pyspark/pyspark-udf-user-defined-function/)
+* [Spark SQL Built-in Standard Functions](https://sparkbyexamples.com/spark/spark-sql-functions/)
+* https://github.com/hnawaz007/pythondataanalysis/tree/main
+* 
