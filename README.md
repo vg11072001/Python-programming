@@ -71,3 +71,4 @@ Contain all resources, codes and problems solved be me of different platform
 
 ## Interesting articles on Python
 * [Python Pitfall: Mutable Default Arguments](https://towardsdatascience.com/python-pitfall-mutable-default-arguments-9385e8265422)
+* [Interesting topic conver to Optimise python code](https://www.softformance.com/blog/how-to-speed-up-python-code/)
