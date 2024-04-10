@@ -30,7 +30,14 @@
    * Pop can happend only at the end (reversed way of pushed, pop goes like)
    * LIFO - Last In First Out DS.
 
+   **Prefix Sums**
+   * In prefix, the values on which index we are including, we will consider value of that index + pre sum.
+   * Example, to calculate the sum of subarray, Navie way will be O(N). Using Prefix sum, in between values from (n to m) we can get the prefix of (m) - prefix of (n+1) its O(1).
+   *  
+   
 ### 2. Hash
 
    **Hash Usage**
-   * 
+   * Hash Map is good with TC of O(1) in Insert, Remove and Search. But the biggest disadvantage is they don't have any order and their ordering on bases of Key TC is O(NlogN).
+   * Use case of Hash Map: create dict type data store , then for loop and within it if consition if name is not in then dict. (python doesn't have special Hash thing so use dict) O(N)
+   *   
