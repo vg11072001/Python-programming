@@ -32,8 +32,11 @@
 
    **Prefix Sums**
    * In prefix, the values on which index we are including, we will consider value of that index + pre sum.
-   * Example, to calculate the sum of subarray, Navie way will be O(N). Using Prefix sum, in between values from (n to m) we can get the prefix of (m) - prefix of (n+1) its O(1).
+   * Example, to calculate the sum of subarray, Navie way will be O(N). Using Prefix sum, in between values from (n to m) we can get the prefix of (m) - prefix of (n-1) its O(1).
+   
    ![image](https://github.com/vg11072001/Python-programming/assets/67424390/9666304f-a4b7-48b0-a8d6-3ab3a979661c)
+
+   * handle this on extreme left on prefix
  
      
    
