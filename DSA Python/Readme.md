@@ -21,3 +21,16 @@
    * Here to get new array just mutiply it by earlier intizalise a new array.
    * We can deallocate the original array, when modifies the array.
    * Amortise Time Complexity will be O(1).
+
+   * Bit-O-Time of Static and Dynamic is same
+
+   **Stacks**
+   * Stack supports 3 operations Pop, Push and Peek/Top (Dynamcic array also have this)
+   * Stack is also an array, Stack treats as vertical. (top is end kinda bucket)
+   * Pop can happend only at the end (reversed way of pushed, pop goes like)
+   * LIFO - Last In First Out DS.
+
+### 2. Hash
+
+   **Hash Usage**
+   * 
