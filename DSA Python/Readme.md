@@ -37,6 +37,13 @@
    ![image](https://github.com/vg11072001/Python-programming/assets/67424390/9666304f-a4b7-48b0-a8d6-3ab3a979661c)
 
    * handle this on extreme left on prefix
+
+
+### My Notes on Array :eye:
+   I'll be adding some rescoures and optimise function to use for better code:
+   1. functions ()
+         1.1. lambda function - its act like a function just a small version of def() ``` lambda x: x * 2 ```
+         1.2. map() - 
  
      
    
