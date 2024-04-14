@@ -38,6 +38,9 @@
 
    * handle this on extreme left on prefix
 
+   **Two Pointers**
+   * Two pointes example - Left and Right,  
+   * 
 
 ### My Notes on Array :eye:
    I'll be adding some rescoures and optimise function to use for better code:
@@ -52,4 +55,5 @@
    **Hash Usage**
    * Hash Map is good with TC of O(1) in Insert, Remove and Search. But the biggest disadvantage is they don't have any order and their ordering on bases of Key TC is O(NlogN).
    * Use case of Hash Map: create dict type data store , then for loop and within it if consition if name is not in then dict. (python doesn't have special Hash thing so use dict) O(N)
-   *   
+
+  
