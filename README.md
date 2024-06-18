@@ -73,3 +73,4 @@ Contain all resources, codes and problems solved be me of different platform
 * [Python Pitfall: Mutable Default Arguments](https://towardsdatascience.com/python-pitfall-mutable-default-arguments-9385e8265422)
 * [Interesting topic conver to Optimise python code](https://www.softformance.com/blog/how-to-speed-up-python-code/)
 * [Hyperparameter Optimization in python](https://www.activestate.com/blog/top-10-tools-for-hyperparameter-optimization-in-python/)
+* [How to write memory efficient classes in Python?](https://www.geeksforgeeks.org/how-to-write-memory-efficient-classes-in-python/)
