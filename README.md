@@ -35,12 +35,59 @@ Contain all resources, codes and problems solved be me of different platform
 ![image](https://user-images.githubusercontent.com/67424390/180626751-4453b296-c303-4530-86cd-a17ac26bf804.png)
 
 
-## Hacker Rank Solution
+## Data Structures and Alogirthm
+
+* [Tips to solve problems by sean](https://seanprashad.com/leetcode-patterns/)
+```
+If input array is sorted then
+- Binary search
+- Two pointers
+
+If asked for all permutations/subsets then
+- Backtracking
+
+If given a tree then
+- DFS
+- BFS
+
+If given a graph then
+- DFS
+- BFS
+
+If given a linked list then
+- Two pointers
+
+If recursion is banned then
+- Stack
+
+If must solve in-place then
+- Swap corresponding values
+- Store one or more different values in the same pointer
+
+If asked for maximum/minimum subarray/subset/options then
+- Dynamic programming
+
+If asked for top/least K items then
+- Heap
+- QuickSelect
+
+If asked for common strings then
+- Map
+- Trie
+
+Else
+- Map/Set for O(1) time & O(n) space
+- Sort input for O(nlogn) time and O(1) space
+```
+
+* [NeetCode](https://neetcode.io)
+
+### Hacker Rank Solution
 * [Notebook Link](https://drive.google.com/file/d/1F5lQiU5ruqgkJWTftnMlPQmhEyETKssf/view?usp=sharing)
 * [Id](https://www.hackerrank.com/vg11072001)
 
 
-## Geek for Geek | Python Programming 
+### Geek for Geek | Python Programming 
 
 #### 1. [Python Practise](https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/)
 * [Notebook](https://colab.research.google.com/drive/1q1olHHQFaDAkNbFSJSQMv_hWt40udLWc#scrollTo=SGJBlQs3c3uq)
