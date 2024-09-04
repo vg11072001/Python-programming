@@ -81,6 +81,7 @@ Else
 ```
 
 * [NeetCode](https://neetcode.io)
+* [Pirate Kingdome Leetcode guide, Cheatsheet and mutiple resources](https://www.piratekingdom.com/leetcode/resources)
 
 ### Hacker Rank Solution
 * [Notebook Link](https://drive.google.com/file/d/1F5lQiU5ruqgkJWTftnMlPQmhEyETKssf/view?usp=sharing)
