@@ -1,5 +1,15 @@
 ## Spark
 
+### Pyspark Optimization Techniques
+* [Apache Spark Cache and Persist](https://medium.com/@deepa.account/apache-spark-cache-and-persist-e2ea83c47d2f)
+Lazy evaluation is a programming concept in Apache Spark that delays the evaluation of expressions until their results are needed. This technique is used to optimize data processing pipelines by minimizing unnecessary computations, improving resource utilization, and enhancing overall performance. 
+In PySpark, lazy evaluation is used for transformations such as filter, map, and groupBy. When a transformation is called on a DataFrame or RDD, Spark records the transformation in a Directed Acyclic Graph (DAG) and only executes it when an action is called. For example, if you run a transformation to filter your dataframe (df.filter()) but Spark won't actually filter it until you run an action, such as showing your dataframe (df.show()). 
+Lazy evaluation is especially useful for wide transformations, where the data required to be computed for a single partition may exist in multiple partitions. It can also reduce memory usage and provide more flexible computation
+
+* [Spark Transformations, Actions and Lazy Evaluation.](https://www.linkedin.com/pulse/spark-transformations-actions-lazy-evaluation-mohammad-younus-jameel/)
+* [How does PySpark work? — step by step (with pictures)](https://medium.com/analytics-vidhya/how-does-pyspark-work-step-by-step-with-pictures-c011402ccd57)
+* 
+
 ### Spark Architecture, [Intro](https://blog.devgenius.io/setup-pyspark-locally-build-your-first-etl-pipeline-with-pyspark-91c3060c6133)
 ![image](https://github.com/vg11072001/Python-programming/assets/67424390/eef3adfe-4268-4fd2-ba44-6ebfe330078f)
 
