@@ -63,12 +63,23 @@
 * Sliding window is used to find the maximum/minimum subarray sum, subarray with
 * [Sliding Window Technique: A Comprehensive Guide](https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide) - Leetcode
 
+### Sorting
+* [Custom Sorting can be by functools cmp_to_key function in python](https://www.geeksforgeeks.org/how-does-the-functools-cmp_to_key-function-works-in-python/)
+
 ## Resources to Read
 
 * [ASCII Code Sheet](https://www.ascii-code.com/)
+* [Binary Value Chart](https://www.oreilly.com/library/view/cisco-ccentccna-icnd1/9780133367843/app01.html)
+  
+## Cheatsheet
+* [Leetcode cheatsheet](https://leetcode.com/explore/interview/card/cheatsheets/720/resources/) - Good
+* [Leetcode Course on Coding strategy](https://leetcode.com/explore/interview/card/coding-interview-strategy/206/chapter-1-the-interview-process/1349/)
+* 
 
 ### Guide 
 
+* [LeetCode Patter by Sean prashad](https://seanprashad.com/leetcode-patterns/) -Good ques
+* Striver Sheet 
 * [Leetcode list by ML Engineer](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode/659097) - Leetcode
 * [ML Engineer blog on Leetcode](https://mlengineer.io/common-leetcode-questions-by-categories-532b301130b) 
 * [Leecode FlowChart](https://algo.monster/flowchart) - AlgoMonster
