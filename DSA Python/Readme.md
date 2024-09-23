@@ -70,27 +70,43 @@
 
 * [ASCII Code Sheet](https://www.ascii-code.com/)
 * [Binary Value Chart](https://www.oreilly.com/library/view/cisco-ccentccna-icnd1/9780133367843/app01.html)
+
+### Mathematics for DSA
+* [Maths for Data Structure and Algorithms (DSA) | A Complete Guide](https://www.geeksforgeeks.org/maths-for-data-structure-and-algorithms-dsa-a-complete-guide/) - GFG
+* [Youtube: No One Gonna Tell You This 🤫 45 Math Topic For DSA](https://www.youtube.com/watch?v=dEXlNmD9baE)
+  * [PDF - drive](https://drive.google.com/file/d/1_slu2SEIwD-NDdh60ns2KsnoSlxzVrWN/view?pli=1)
+* [Youtube: Striver Math](https://www.youtube.com/watch?v=1xNbjMdbjug)
   
 ## Cheatsheet
 * [Leetcode cheatsheet](https://leetcode.com/explore/interview/card/cheatsheets/720/resources/) - Good
 * [Leetcode Course on Coding strategy](https://leetcode.com/explore/interview/card/coding-interview-strategy/206/chapter-1-the-interview-process/1349/)
-* 
+
 
 ### Guide 
 
 * [LeetCode Patter by Sean prashad](https://seanprashad.com/leetcode-patterns/) -Good ques
 * Striver Sheet 
-* [Leetcode list by ML Engineer](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode/659097) - Leetcode
+* [Leetcode list by ML Engineer](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode/659097) - Leetcode, [Medium Blog](https://mlengineer.io/common-leetcode-questions-by-categories-532b301130b)1 [Blog](https://mlengineer.io/from-semiconductor-to-software-engineer-8c3126dde65b)2
 * [ML Engineer blog on Leetcode](https://mlengineer.io/common-leetcode-questions-by-categories-532b301130b) 
 * [Leecode FlowChart](https://algo.monster/flowchart) - AlgoMonster
+* AlgoMonster dsa solutions - [GitHub1](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
 * [How I Mastered Data Structures and Algorithms](https://medium.com/algomaster-io/how-i-mastered-data-structures-and-algorithms-eb8c5273c56d) -Medium
 * [TOPICS WHICH YOU CAN'T SKIP [INTERVIEW PREPARATION | STUDY PLAN] USING LEETCODE](https://leetcode.com/discuss/study-guide/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-INTERVIEW-PREPARATION-or-STUDY-PLAN-USING-LEETCODE) - 
 * [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) - Good
+* [Interviewbit python questions basics](https://www.interviewbit.com/python-interview-questions/)
+* [Practical Algorithms and Data Structures ](https://bradfieldcs.com/algos/) Skim Thru Topics site
 * [Pirate LeetCode Resources](https://www.piratekingdom.com/leetcode/resources) -Site
 * [Python Cheat Sheet for Leetcode](https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode)
 * [DSA Master](https://instabyte.io/p/dsa-master)
+* [Python for Algorithms, Data-Structures, and Interviews!](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master) - Github Skim thru of code
+* [From Zero To Hero in Data Structures & Algorithms](https://medium.com/@tushar_patil/how-to-prepare-for-dsa-zero-to-hero-53ee4b1e1ebd) - Medium
+* [Big Companies and Startups Interview Questions](https://github.com/realabbas/big-companies-interview-questions) - Github
+* [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Github
 
-##
+
+ML Ques of Interview 
+- [Github](https://github.com/Sindurav/CodingInterviews/tree/master/QuantumBlack%20Machine%20Learning%20Software%20Engineer%202019) 3 ques
+
 ### Doubts
 * [How to master edge cases?](https://www.reddit.com/r/leetcode/comments/17kkf9g/how_to_master_edge_cases/)- Reddit
 * [Edge cases to consider during problem solving](https://leetcode.com/discuss/general-discussion/988504/Edge-cases-to-consider-during-problem-solving)

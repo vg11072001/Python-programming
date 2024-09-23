@@ -2,7 +2,7 @@
 Contain all resources, codes and problems solved be me of different platform
 
   
-
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/): Online Book
 * [Data Types in Python](https://docs.python.org/3/library/datatypes.html) : such as dates and times, fixed-type arrays, [heap queues](https://docs.python.org/3/library/heapq.html#heapq.heapify), double-ended queues, [collection](https://docs.python.org/3/library/collections.html) and enumerations.
 * [Pandas references](https://pandas.pydata.org/docs/reference/index.html)
 
@@ -98,3 +98,5 @@ Full Guide: [Click Here](https://github.com/vg11072001/Python-programming/tree/m
 * [Interesting topic conver to Optimise python code](https://www.softformance.com/blog/how-to-speed-up-python-code/)
 * [Hyperparameter Optimization in python](https://www.activestate.com/blog/top-10-tools-for-hyperparameter-optimization-in-python/)
 * [How to write memory efficient classes in Python?](https://www.geeksforgeeks.org/how-to-write-memory-efficient-classes-in-python/)
+* [Python Design Patterns](https://python-patterns.guide/)
+* [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
