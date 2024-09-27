@@ -96,8 +96,6 @@
 
 ### Recursion (Backtracking, Graphs, DP and more)
 
-###
-
 ### Heaps
 * 
    | Operation | Time Complexity |
