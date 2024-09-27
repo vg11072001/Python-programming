@@ -128,7 +128,7 @@
 
  Credits [NeetCode.io](https://neetcode.io/) &#10084;
 
-## Resources to Read
+## Resources to Read 
 
 * [ASCII Code Sheet](https://www.ascii-code.com/)
 * [Binary Value Chart](https://www.oreilly.com/library/view/cisco-ccentccna-icnd1/9780133367843/app01.html)
