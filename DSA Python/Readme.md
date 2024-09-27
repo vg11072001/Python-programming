@@ -12,15 +12,17 @@
    
    **Static Array**
    * Array store in continous store of data
-   * 2 parts: Reading(reach there using for loop to index) and Writing(The size to be fixed, and operation is  O(1)). (this can be done easily by Index)
-   * Disadvantage of Array(Static Array): . In Static araay you cannot delete the data, can only overwrite the values. *Not observed in python and Java
+   * 2 parts: 
+     * Reading(reach there using for loop to index)
+     *  Writing (The size to be fixed, and operation is  `O(1)`). (this can be done easily by Index)
+   * Disadvantage of Array (Static Array): . In Static araay you cannot delete the data, can only overwrite the values. *Not observed in python and Java
    * To put the value in middle, you have to move/shift every values in array on different array. (Cannot be done on same array)
 
    **Dynamic Array**
-   * The problme solved here is fixed size and also here pusing, poping and shifiting at the end of the value, all will be O(N)
+   * The problme solved here is fixed size and also here pusing, poping and shifiting at the end of the value, all will be `O(n)`
    * Here to get new array just mutiply it by earlier intizalise a new array.
    * We can deallocate the original array, when modifies the array.
-   * Amortise Time Complexity will be O(1).
+   * Amortise Time Complexity will be `O(1)`.
 
    * Bit-O-Time of Static and Dynamic is same
 
@@ -32,20 +34,31 @@
 
    **Prefix Sums**
    * In prefix, the values on which index we are including, we will consider value of that index + pre sum.
-   * Example, to calculate the sum of subarray, Navie way will be O(N). Using Prefix sum, in between values from (n to m) we can get the prefix of (m) - prefix of (n-1) its O(1).
+   * Example, to calculate the sum of subarray, Navie way will be `O(n)`. Using Prefix sum, in between values from (n to m) we can get the prefix of (m) - prefix of (n-1) its O(1).
    
-   ![image](https://github.com/vg11072001/Python-programming/assets/67424390/9666304f-a4b7-48b0-a8d6-3ab3a979661c)
-
+   ``` python
+   Class PrefixSum:
+      def __init__(self,nums):
+         self.prefix = []
+         total = 0
+         for n in nums:
+            total += n
+            self.prefix.append(total)
+      
+      def rangeSum(self, left, right):
+         preRight = self.preficx[right]
+         preLeft = self.prefix[left-1] if left >0 else 0
+         return (preRight - preLeft)
+   ```
    * handle this on extreme left on prefix
 
    **Two Pointers**
    * Two pointes example - Left and Right,  
-   * 
 
 ### My Notes on Array :eye:
    I'll be adding some rescoures and optimise function to use for better code:
-   1. functions ()
-         1.1. lambda function - its act like a function just a small version of def() ``` lambda x: x * 2 ```
+   1. functions () \
+         1.1. lambda function - its act like a function just a small version of def() `lambda x: x * 2` \
          1.2. map() - 
  
      
@@ -53,9 +66,20 @@
 ### 2. Hash
 
    **Hash Usage**
-   * Hash Map is good with TC of O(1) in Insert, Remove and Search. But the biggest disadvantage is they don't have any order and their ordering on bases of Key TC is O(NlogN).
+   * Hash Map is good with TC of `O(1)` in Insert, Remove and Search. But the biggest disadvantage is they don't have any order and their ordering on bases of Key TC is O(NlogN).
    * Use case of Hash Map: create dict type data store , then for loop and within it if consition if name is not in then dict. (python doesn't have special Hash thing so use dict) O(N)
    * [HashSets and HashTables in Python](https://www.askpython.com/python/examples/hashsets-and-hashtables-in-python)
+
+ **Hashing**
+   * Hash Table
+   * [Python Hash() method](https://www.geeksforgeeks.org/python-hash-method/) 
+   * Hash Map TC
+ * 
+   | Operation | Time Complexity |
+   |-----------|-----------------|
+   | search()  | O(1)            |
+   | insert()  | O(1)            |
+   | remove()  | O(1)            |
   
 
 ### Sliding Window
@@ -66,14 +90,53 @@
 ### Sorting
 * [Custom Sorting can be by functools cmp_to_key function in python](https://www.geeksforgeeks.org/how-does-the-functools-cmp_to_key-function-works-in-python/)
 
+### Binary Search
+
+### DFS and BFS
+
+### Recursion (Backtracking, Graphs, DP and more)
+
+###
+
+### Heaps
+* 
+   | Operation | Time Complexity |
+   |-----------|-----------------|
+   | top()     | O(1)            |
+   | insert()  | O(log n)         |
+   | remove()  | O(log n)         |
+   | heapify() | O(n)            |
+* adding value on heap in one go is `O(logn)`
+* adding value on heap one a time (like thru some operations the value results) is `O(nlogn)`
+
+### Dynamic Programming
+* Fiboonacci number - instance of DP
+  * convert Recusion to DP
+  * While solving recusion problem, first approach brute force, then add memoization to it and second approach is bottom up.
+  * True DP is Bottom up and partial considered memoization
+  
+* Approach to solve prblems Dynamic programming problem :
+1. Check if we can create the decision tree
+2. Check if we can create the memoization table
+3. Use it for creating bottom up DP
+   
+
+## Time Complexity
+* BiG O complexity - Run Time w.r.t to Input Size
+
+   ![Time  Complexity](TimeComplexity.png)
+
+ Credits [NeetCode.io](https://neetcode.io/) &#10084;
+
 ## Resources to Read
 
 * [ASCII Code Sheet](https://www.ascii-code.com/)
 * [Binary Value Chart](https://www.oreilly.com/library/view/cisco-ccentccna-icnd1/9780133367843/app01.html)
+* Book : 
 
 ### Mathematics for DSA
 * [Maths for Data Structure and Algorithms (DSA) | A Complete Guide](https://www.geeksforgeeks.org/maths-for-data-structure-and-algorithms-dsa-a-complete-guide/) - GFG
-* [Youtube: No One Gonna Tell You This 🤫 45 Math Topic For DSA](https://www.youtube.com/watch?v=dEXlNmD9baE)
+* [Youtube: No One Gonna Tell You This 45 Math Topic For DSA](https://www.youtube.com/watch?v=dEXlNmD9baE)
   * [PDF - drive](https://drive.google.com/file/d/1_slu2SEIwD-NDdh60ns2KsnoSlxzVrWN/view?pli=1)
 * [Youtube: Striver Math](https://www.youtube.com/watch?v=1xNbjMdbjug)
   
