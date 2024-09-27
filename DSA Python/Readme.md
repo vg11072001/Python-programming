@@ -108,6 +108,7 @@
 * adding value on heap one a time (like thru some operations the value results) is `O(nlogn)`
 
 ### Dynamic Programming
+
 * Fiboonacci number - instance of DP
   * convert Recusion to DP
   * While solving recusion problem, first approach brute force, then add memoization to it and second approach is bottom up.
