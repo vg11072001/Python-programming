@@ -29,7 +29,11 @@ Contain all resources, codes and problems solved be me of different platform
 
 ML python
 * Numpy
+  * Numpy Prcatice Questions - [Kaggle](https://www.kaggle.com/code/themlphdstudent/learn-numpy-numpy-50-exercises-and-solution)
+  * Patterns - [Medium](https://medium.com/@kasperjuunge/numpy-10-most-common-usage-patterns-afc19f2fd7a)
 * Pandas
+  * Not to do -  [Blog](https://www.aidancooper.co.uk/pandas-anti-patterns/) 
+  * Question - [GFG](https://www.geeksforgeeks.org/pandas-practice-excercises-questions-and-solutions/), [kaagle collection](https://www.kaggle.com/discussions/getting-started/119445), [More on Kaggle](https://www.kaggle.com/code/icarofreire/pandas-24-useful-exercises-with-solutions) 
 * Matplotlib
 * Seaborn
 * bookeh

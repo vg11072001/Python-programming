@@ -118,12 +118,18 @@
 1. Check if we can create the decision tree
 2. Check if we can create the memoization table
 3. Use it for creating bottom up DP
+
+Watch : [Mastering Dynamic Programming - How to solve any interview problem](https://www.youtube.com/watch?v=Hdr64lKQ3e4)
+
+DP and Reinforcement Learning : [Medium List](https://medium.com/@numsmt2/list/reinforcement-learning-24c09d78a910)
    
 
 ## Time Complexity
 * BiG O complexity - Run Time w.r.t to Input Size
 
    ![Time  Complexity](TimeComplexity.png)
+   For More Read:
+   * [Complexity Cheat Sheet for Python Operations](https://www.geeksforgeeks.org/complexity-cheat-sheet-for-python-operations/)
 
  Credits [NeetCode.io](https://neetcode.io/) &#10084;
 
