@@ -96,6 +96,24 @@
 
 ### Recursion (Backtracking, Graphs, DP and more)
 
+* [On Backtracking about Maze](https://sulugar1.tripod.com/games/maze/mazes.htm)
+  * Unlike the simple recursion examples we had encountered, a backtracking procedure goes **through multiple winding and unwinding stages** as it loops through the choices it has to make at every node. 
+  * One of the most common applications of backtracking is in the evaluation of moves for strategy games like chess. We will look at a much simpler game, tic-tac-toe, and see how a backtracking strategy can be used to ensure that we can never lose the game.
+  * Maze 
+     - ![maze](Maze.png)
+
+
+#### Problem Space of Permutations, Combinations, and Subsets
+
+- **Permutations**: \( N! \) (for \( N \) elements), generate all possible arrangements of elements.
+
+- **Combinations**: \( C(N, k) = \frac{N!}{k!(N-k)!} \) (choose \( k \) elements from \( N \)), focus on selecting a specific number of elements from a larger set.
+
+- **Subsets**: \( 2^N \) (since each element can either be included or excluded from the subset), generate all possible combinations of a set of elements (including the empty set).
+
+* **Iterative, recursive/backtracking, and lexicographic generation (bitmasking)** are the three main strategies, each suited for different scenarios. [InDetail Read NoteBook](09.Backtracking.ipynb)
+
+
 ### Heaps
 * 
    | Operation | Time Complexity |
