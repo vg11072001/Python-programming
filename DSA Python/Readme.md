@@ -1,4 +1,4 @@
-
+# Data Structures and Algorithm
 ## Python Concepts for Data Structures and Algorithm
 ### 1. Array
 
@@ -89,6 +89,8 @@
 
 ### Sorting
 * [Custom Sorting can be by functools cmp_to_key function in python](https://www.geeksforgeeks.org/how-does-the-functools-cmp_to_key-function-works-in-python/)
+  * Sorting using function - solved questions in greedy notebook
+  
 
 ### Binary Search
 
@@ -105,11 +107,11 @@
 
 #### Problem Space of Permutations, Combinations, and Subsets
 
-- **Permutations**: \( N! \) (for \( N \) elements), generate all possible arrangements of elements.
+- **Permutations**: $( N! ) (for ( N )$ elements), generate all possible arrangements of elements.
 
-- **Combinations**: \( C(N, k) = \frac{N!}{k!(N-k)!} \) (choose \( k \) elements from \( N \)), focus on selecting a specific number of elements from a larger set.
+- **Combinations**: $( C(N, k) = \frac{N!}{k!(N-k)!} )$ (choose \( k \) elements from \( N \)), focus on selecting a specific number of elements from a larger set.
 
-- **Subsets**: \( 2^N \) (since each element can either be included or excluded from the subset), generate all possible combinations of a set of elements (including the empty set).
+- **Subsets**: $( 2^N )$ (since each element can either be included or excluded from the subset), generate all possible combinations of a set of elements (including the empty set).
 
 * **Iterative, recursive/backtracking, and lexicographic generation (bitmasking)** are the three main strategies, each suited for different scenarios. [InDetail Read NoteBook](09.Backtracking.ipynb)
 
@@ -150,6 +152,11 @@ DP and Reinforcement Learning : [Medium List](https://medium.com/@numsmt2/list/r
    * [Complexity Cheat Sheet for Python Operations](https://www.geeksforgeeks.org/complexity-cheat-sheet-for-python-operations/)
 
  Credits [NeetCode.io](https://neetcode.io/) &#10084;
+
+## New Topics while solving ques.
+* Itertool is a module provided by Python for creating iterators for efficient looping. It also provides various features or functions that work with iterators to produce complex iterators and help us to solve problems easily and efficiently in terms of time as well as memory. Itertools module provides us various ways to manipulate the sequence that we are traversing through. 
+  *  Python – Itertools.[Permutations() ](https://www.geeksforgeeks.org/python-itertools-permutations/)
+
 
 ## Resources to Read 
 
