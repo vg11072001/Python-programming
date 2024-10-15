@@ -1,4 +1,36 @@
 # Data Structures and Algorithm
+
+![alt text](dsatopics.png)
+
+
+## Status 
+
+## Problems list resources
+* Neetcode.io 150 problems
+* Leetcode daily 
+* Leet code contest - Helpful [github repo](https://github.com/doocs/leetcode/blob/main/solution/CONTEST_README_EN.md#biweekly-contest-140)
+
+## Answers
+* Intution to problem 
+* Approach (which Data structure or  Algorithm?)
+* Code flow design
+* write
+
+## Pile ups 🥹
+- [ ] Subarray problems
+- [ ] different type of sorting - merge sort, quick sort
+- [ ] bit manipulations  daily and neet problems (contain contest prblm also)
+- [ ] heaps daily and neet problems 
+- [ ] backtraking neet problems
+- [ ] dp1 revision and some neet problems
+- [ ] dp1 string continue (11/10/24 contest of  problm - how to recognise it)
+- [ ] interval problem of neet and daily ques had heap approach check on that file
+
+### More pending
+- [ ] trees notes
+- [ ] greedy 
+- [ ] excel complete (150 problems)
+
 ## Python Concepts for Data Structures and Algorithm
 ### 1. Array
 
@@ -196,9 +228,8 @@ DP and Reinforcement Learning : [Medium List](https://medium.com/@numsmt2/list/r
 * [Big Companies and Startups Interview Questions](https://github.com/realabbas/big-companies-interview-questions) - Github
 * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Github
 
-
-ML Ques of Interview 
-- [Github](https://github.com/Sindurav/CodingInterviews/tree/master/QuantumBlack%20Machine%20Learning%20Software%20Engineer%202019) 3 ques
+- [160 Coding Interview Questions | AlgoExpert](https://www.algoexpert.io/questions)
+- [Problems — LeetCode](https://leetcode.com/problemset/all/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D) 
 
 ### Doubts
 * [How to master edge cases?](https://www.reddit.com/r/leetcode/comments/17kkf9g/how_to_master_edge_cases/)- Reddit
