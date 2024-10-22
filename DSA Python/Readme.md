@@ -63,6 +63,11 @@
    * Stack is also an array, Stack treats as vertical. (top is end kinda bucket)
    * Pop can happend only at the end (reversed way of pushed, pop goes like)
    * LIFO - Last In First Out DS.
+   * Monotonic Increasing / Decreasing Based Questions
+   * Stack Parenthesis Questions
+   * Implementation-type Problems
+   * Advanced Stack Problems (merge interval)
+   * [General Approach to Stack Problems](https://leetcode.com/discuss/study-guide/3168516/A-general-approach-to-stack-problems-in-C%2B%2B-or-Generic-Template)
 
    **Prefix Sums**
    * In prefix, the values on which index we are including, we will consider value of that index + pre sum.
@@ -135,7 +140,13 @@
   * One of the most common applications of backtracking is in the evaluation of moves for strategy games like chess. We will look at a much simpler game, tic-tac-toe, and see how a backtracking strategy can be used to ensure that we can never lose the game.
   * Maze 
      - ![maze](Maze.png)
-
+  * You can use backtracking when you need to find all or some solutions to a problem that meets certain constraints, and the search space is too large or complex to use brute force or greedy methods. Backtracking is useful when: 
+    * The problem involves exploring multiple possibilities 
+    * You need to find all solutions or the best solution under constraints 
+    * Choices must be made in sequence, and each choice depends on previous ones 
+    * The solution to a problem does not have a time limit 
+  * Backtracking is not regarded as an optimal problem-solving technique. It's not efficient for problems that have many solutions or require a lot of backtracking steps. In such cases, you may need to use other techniques. 
+  * Backtracking can be used to solve problems such as Sudoku, N-queens, subset sum, and Hamiltonian cycle.
 
 #### Problem Space of Permutations, Combinations, and Subsets
 
@@ -221,12 +232,15 @@ DP and Reinforcement Learning : [Medium List](https://medium.com/@numsmt2/list/r
 * [Interviewbit python questions basics](https://www.interviewbit.com/python-interview-questions/)
 * [Practical Algorithms and Data Structures ](https://bradfieldcs.com/algos/) Skim Thru Topics site
 * [Pirate LeetCode Resources](https://www.piratekingdom.com/leetcode/resources) -Site
-* [Python Cheat Sheet for Leetcode](https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode)
 * [DSA Master](https://instabyte.io/p/dsa-master)
 * [Python for Algorithms, Data-Structures, and Interviews!](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master) - Github Skim thru of code
 * [From Zero To Hero in Data Structures & Algorithms](https://medium.com/@tushar_patil/how-to-prepare-for-dsa-zero-to-hero-53ee4b1e1ebd) - Medium
 * [Big Companies and Startups Interview Questions](https://github.com/realabbas/big-companies-interview-questions) - Github
 * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Github
+
+
+* [Python Cheat Sheet for Leetcode](https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode)
+* [Handy resources to lookup while coding](https://leetcode.com/discuss/interview-question/5942295/handy-resources-to-lookup-while-coding)
 
 - [160 Coding Interview Questions | AlgoExpert](https://www.algoexpert.io/questions)
 - [Problems — LeetCode](https://leetcode.com/problemset/all/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D) 
