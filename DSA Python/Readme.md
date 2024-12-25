@@ -223,7 +223,8 @@ DP and Reinforcement Learning : [Medium List](https://medium.com/@numsmt2/list/r
 * [LeetCode Patter by Sean prashad](https://seanprashad.com/leetcode-patterns/) -Good ques
 * Striver Sheet 
 * [Leetcode list by ML Engineer](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode/659097) - Leetcode, [Medium Blog](https://mlengineer.io/common-leetcode-questions-by-categories-532b301130b)1 [Blog](https://mlengineer.io/from-semiconductor-to-software-engineer-8c3126dde65b)2
-* [ML Engineer blog on Leetcode](https://mlengineer.io/common-leetcode-questions-by-categories-532b301130b) 
+* [ML Engineer blog on Leetcode](https://mlengineer.io/common-leetcode-questions-by-categories-532b301130b)
+* From <https://leetcode.com/discuss/career/807563/preparing-for-machine-learning-engineer-role-vs-software-engineer-role-in-india> ![image](https://github.com/user-attachments/assets/04d3a959-2b0e-41af-a818-68db624c9d10)
 * [Leecode FlowChart](https://algo.monster/flowchart) - AlgoMonster
 * AlgoMonster dsa solutions - [GitHub1](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
 * [How I Mastered Data Structures and Algorithms](https://medium.com/algomaster-io/how-i-mastered-data-structures-and-algorithms-eb8c5273c56d) -Medium
@@ -237,6 +238,8 @@ DP and Reinforcement Learning : [Medium List](https://medium.com/@numsmt2/list/r
 * [From Zero To Hero in Data Structures & Algorithms](https://medium.com/@tushar_patil/how-to-prepare-for-dsa-zero-to-hero-53ee4b1e1ebd) - Medium
 * [Big Companies and Startups Interview Questions](https://github.com/realabbas/big-companies-interview-questions) - Github
 * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Github
+* https://medium.com/@siddhism/how-i-prepared-for-google-0-leetcode-questions-to-200-questions-e37690ebce85
+* https://chingisoinar.medium.com/did-leetcode-help-me-get-a-job-in-ai-ml-2023-fd630fe7ea0f ![image](https://github.com/user-attachments/assets/bcdc1639-7258-46ae-b49b-98ae24854336)
 
 
 * [Python Cheat Sheet for Leetcode](https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode)
